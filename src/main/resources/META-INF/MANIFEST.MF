@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: ARMSettingsToRE
+Class-Path: C:\РАБОТА\ТЕСТИРОВАНИЕ\ARMSettingsToRE\src
+ \main\java
+

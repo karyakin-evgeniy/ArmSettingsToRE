@@ -1,0 +1,16 @@
+{
+  "paths": {
+    "pathToArm": "C:\\Users\\SESA619710\\Downloads\\АРМ-Конф Тестрелиз\\2022.08.09-v1.13.0.56226Arm\\ArmEdit.exe",
+    "pathForExcel": "C:\\Users\\SESA619710\\Downloads\\result",
+    "pathForResultExcel": "C:\\Users\\SESA619710\\Downloads\\result"
+  },
+  "bfpo": {
+    "bfpoDirectory": "C:\\Users\\SESA619710\\Downloads",
+    "bfpoName": "БФПО-ЛТ-52_02.sth"
+  },
+  "test": {
+    "allTestStart": false,
+    "RECreator": true,
+    "checkAddToASU": true
+  }
+}
